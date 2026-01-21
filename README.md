@@ -44,15 +44,15 @@ coord rotateXZ(coord p, float angle) {
     temp.y = p.y;
     return temp;
 }
-
+```
 📥 How to Run
 
-    Go to the Releases section on the right.
+Go to the Releases section on the right.
 
-    Download the latest .zip file.
+Download the latest .zip file.
 
-    Extract the folder.
+Extract the folder.
 
-    Run 3D_World.exe (Ensure glut32.dll is in the same folder).
+Run 3D_World.exe (Ensure glut32.dll is in the same folder).
 
 Developed by Burak Ayberk Caglar - Bilkent University CTIS major
